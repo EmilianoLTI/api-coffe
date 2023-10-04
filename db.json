@@ -1,26 +1,28 @@
-[
-  {
-    "name": "cortado",
-    "price": 120
-  },
-  {
-    "name": "espumante",
-    "price": 100
-  },
-  {
-    "name": "cubano",
-    "price": 300
-  },
-  {
-    "name": "colombiano",
-    "price": 180
-  },
-  {
-    "name": "simple",
-    "price": 90
-  },
-  {
-    "name": "puro",
-    "price": 120
-  },
-]
+{
+  "products": [
+    {
+      "name": "cortado",
+      "price": 120
+    },
+    {
+      "name": "espumante",
+      "price": 100
+    },
+    {
+      "name": "cubano",
+      "price": 300
+    },
+    {
+      "name": "colombiano",
+      "price": 180
+    },
+    {
+      "name": "simple",
+      "price": 90
+    },
+    {
+      "name": "puro",
+      "price": 120
+    }
+  ]
+}
