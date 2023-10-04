@@ -23,6 +23,10 @@
     {
       "name": "puro",
       "price": 120
+    },
+    {
+      "name": "frio",
+      "price": 90
     }
   ]
 }
